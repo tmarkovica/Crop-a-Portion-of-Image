@@ -1,0 +1,10 @@
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\bin\Debug\Crop a Portion of Image.exe.config
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\bin\Debug\Crop a Portion of Image.exe
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\bin\Debug\Crop a Portion of Image.pdb
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop a Portion of Image.csprojAssemblyReference.cache
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop_a_Portion_of_Image.Form1.resources
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop_a_Portion_of_Image.Properties.Resources.resources
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop a Portion of Image.csproj.GenerateResource.cache
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop a Portion of Image.csproj.CoreCompileInputs.cache
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop a Portion of Image.exe
+D:\repos\Crop a Portion of Image\Crop a Portion of Image\obj\Debug\Crop a Portion of Image.pdb
